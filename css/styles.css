@@ -453,6 +453,12 @@ header .contact-item {
   padding: 0;
 }
 
+.smlist a {
+  display: block;
+  width: 44px;
+  height: 44px;
+}
+
 .smlist-item {
   width: 44px;
   height: 44px;
